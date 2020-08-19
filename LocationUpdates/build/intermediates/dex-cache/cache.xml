@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Eden/Downloads/android-play-location-master/LocationUpdates/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a03cf6aeeb7a65398c230075bc9e37f1fe6120d">
+        <dex dex="/Users/Eden/Downloads/android-play-location-master/LocationUpdates/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3d53a9692f8b21583d421bbf240ab77b387e7f90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Eden/Downloads/android-play-location-master/LocationUpdates/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/Eden/Downloads/android-play-location-master/LocationUpdates/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_db8794688eedde13aa750c642604b35639fbc3b5/classes.dex" />
+    </item>
+
+</items>

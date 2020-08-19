@@ -1,0 +1,436 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:5:1-137:12
+INJECTED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:5:1-137:12
+INJECTED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:5:1-137:12
+INJECTED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:5:1-137:12
+MERGED from [com.google.android.gms:play-services:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-8.1.0.aar\1e7e3cef0c235d272c433781ed79e4d4\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-cast:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-cast-8.1.0.aar\7a67188e60a5ceb1932231b3f1b97d28\AndroidManifest.xml:16:1-20:12
+MERGED from [com.android.support:mediarouter-v7:22.2.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-22.2.0.aar\f1476ebdddca350ff5ceb28db9baba08\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\56f3afe8b5ff3bc4bdc519974953ca2f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:16:1-47:12
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.1.0.aar\0a108946d55bbba1d73750244b9dac60\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.1.0.aar\1c929e037bc3b0c0f9717e0a764108e9\AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\c37fb2fbb73737a98cb8d460b12fa9c0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-appinvite:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.1.0.aar\11f38443790f09511d161f1e7e95a22e\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-appstate:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-appstate-8.1.0.aar\18bd569a44ede521295fab9565ec4eab\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-games:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-games-8.1.0.aar\099715b941e1db86ddeb3851b6633539\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-drive:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-drive-8.1.0.aar\1614c5856da5b0bef99d767ec53ed7ef\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-fitness:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-fitness-8.1.0.aar\eecd47d080778d58b21991fca9d8756d\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-gcm-8.1.0.aar\55c08bb9d8ae974dd0b300c90ab17caf\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-wallet:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-wallet-8.1.0.aar\40e8da8e6029574dd162f3662d868575\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-identity:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-identity-8.1.0.aar\c05ae1b40d6e7e99f06b7c989898ddc3\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-location:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-location-8.1.0.aar\326ad97fbe300ec96d9c484efea0594d\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.1.0.aar\f39eafbd9046531c946bb4103214397c\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.android.gms:play-services-nearby:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-nearby-8.1.0.aar\6ae90b74798899eb3436583538f7d6cd\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-panorama:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-panorama-8.1.0.aar\1fa35c7fb06d0aad5231e4a59f6e61f5\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-plus:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-plus-8.1.0.aar\01461ff9c8b1640272f711231d4eebde\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-safetynet:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-8.1.0.aar\679f9e945a3fb2ebc9c419976215bc02\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-vision:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-vision-8.1.0.aar\6208c36e06ceda6d8295d1afb22ab60f\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-wearable:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-wearable-8.1.0.aar\98a83956dc48051f2b43f190a017d079\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-base-8.1.0.aar\3bc4cfbbacbe530a2742c289f8a22839\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\70670c1eb7cd1afe004122e1fdfc10fb\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\ca4bbb782e450381d20e018f8e185710\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:5:1-137:12
+INJECTED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:5:1-137:12
+INJECTED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:5:1-137:12
+	package
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:7:5-63
+		INJECTED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml
+		INJECTED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:5:1-137:12
+		INJECTED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:6:5-51
+	android:versionCode
+		INJECTED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:5:1-137:12
+		INJECTED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:5:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:12:5-13:60
+MERGED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.1.0.aar\0a108946d55bbba1d73750244b9dac60\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.1.0.aar\0a108946d55bbba1d73750244b9dac60\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.1.0.aar\1c929e037bc3b0c0f9717e0a764108e9\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.1.0.aar\1c929e037bc3b0c0f9717e0a764108e9\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.1.0.aar\11f38443790f09511d161f1e7e95a22e\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.1.0.aar\11f38443790f09511d161f1e7e95a22e\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-gcm-8.1.0.aar\55c08bb9d8ae974dd0b300c90ab17caf\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-gcm-8.1.0.aar\55c08bb9d8ae974dd0b300c90ab17caf\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-wallet:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-wallet-8.1.0.aar\40e8da8e6029574dd162f3662d868575\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-wallet:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-wallet-8.1.0.aar\40e8da8e6029574dd162f3662d868575\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.1.0.aar\f39eafbd9046531c946bb4103214397c\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.1.0.aar\f39eafbd9046531c946bb4103214397c\AndroidManifest.xml:21:5-66
+	tools:ignore
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:13:9-57
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:12:22-64
+application
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:15:5-136:19
+MERGED from [com.google.android.gms:play-services:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-8.1.0.aar\1e7e3cef0c235d272c433781ed79e4d4\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-8.1.0.aar\1e7e3cef0c235d272c433781ed79e4d4\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-cast-8.1.0.aar\7a67188e60a5ceb1932231b3f1b97d28\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-cast-8.1.0.aar\7a67188e60a5ceb1932231b3f1b97d28\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:22.2.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-22.2.0.aar\f1476ebdddca350ff5ceb28db9baba08\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:22.2.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-22.2.0.aar\f1476ebdddca350ff5ceb28db9baba08\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\56f3afe8b5ff3bc4bdc519974953ca2f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\56f3afe8b5ff3bc4bdc519974953ca2f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.1.0.aar\0a108946d55bbba1d73750244b9dac60\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.1.0.aar\0a108946d55bbba1d73750244b9dac60\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.1.0.aar\1c929e037bc3b0c0f9717e0a764108e9\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.1.0.aar\1c929e037bc3b0c0f9717e0a764108e9\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\c37fb2fbb73737a98cb8d460b12fa9c0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\c37fb2fbb73737a98cb8d460b12fa9c0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.1.0.aar\11f38443790f09511d161f1e7e95a22e\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.1.0.aar\11f38443790f09511d161f1e7e95a22e\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-appstate:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-appstate-8.1.0.aar\18bd569a44ede521295fab9565ec4eab\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appstate:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-appstate-8.1.0.aar\18bd569a44ede521295fab9565ec4eab\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-games-8.1.0.aar\099715b941e1db86ddeb3851b6633539\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-games-8.1.0.aar\099715b941e1db86ddeb3851b6633539\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-drive-8.1.0.aar\1614c5856da5b0bef99d767ec53ed7ef\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-drive-8.1.0.aar\1614c5856da5b0bef99d767ec53ed7ef\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-fitness-8.1.0.aar\eecd47d080778d58b21991fca9d8756d\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-fitness-8.1.0.aar\eecd47d080778d58b21991fca9d8756d\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-gcm-8.1.0.aar\55c08bb9d8ae974dd0b300c90ab17caf\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-gcm-8.1.0.aar\55c08bb9d8ae974dd0b300c90ab17caf\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-identity-8.1.0.aar\c05ae1b40d6e7e99f06b7c989898ddc3\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-identity-8.1.0.aar\c05ae1b40d6e7e99f06b7c989898ddc3\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-location-8.1.0.aar\326ad97fbe300ec96d9c484efea0594d\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-location-8.1.0.aar\326ad97fbe300ec96d9c484efea0594d\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.1.0.aar\f39eafbd9046531c946bb4103214397c\AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.1.0.aar\f39eafbd9046531c946bb4103214397c\AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-nearby:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-nearby-8.1.0.aar\6ae90b74798899eb3436583538f7d6cd\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-nearby:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-nearby-8.1.0.aar\6ae90b74798899eb3436583538f7d6cd\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-panorama-8.1.0.aar\1fa35c7fb06d0aad5231e4a59f6e61f5\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-panorama-8.1.0.aar\1fa35c7fb06d0aad5231e4a59f6e61f5\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-plus-8.1.0.aar\01461ff9c8b1640272f711231d4eebde\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-plus-8.1.0.aar\01461ff9c8b1640272f711231d4eebde\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-8.1.0.aar\679f9e945a3fb2ebc9c419976215bc02\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-8.1.0.aar\679f9e945a3fb2ebc9c419976215bc02\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-vision-8.1.0.aar\6208c36e06ceda6d8295d1afb22ab60f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-vision-8.1.0.aar\6208c36e06ceda6d8295d1afb22ab60f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-wearable-8.1.0.aar\98a83956dc48051f2b43f190a017d079\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-wearable-8.1.0.aar\98a83956dc48051f2b43f190a017d079\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\70670c1eb7cd1afe004122e1fdfc10fb\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\70670c1eb7cd1afe004122e1fdfc10fb\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\ca4bbb782e450381d20e018f8e185710\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\ca4bbb782e450381d20e018f8e185710\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:18:9-40
+	android:icon
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:16:9-38
+	android:allowBackup
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:19:9-42
+meta-data#com.google.android.gms.version
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:21:9-22:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\70670c1eb7cd1afe004122e1fdfc10fb\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\70670c1eb7cd1afe004122e1fdfc10fb\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:22:13-66
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:21:20-65
+activity#com.google.android.gms.location.sample.xingangao.MainActivity
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:23:9-27:20
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:25:13-33
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:24:13-41
+activity#com.google.android.gms.location.sample.xingangao.choice
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:28:9-35:20
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:30:13-32
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:29:13-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:33:27-74
+activity#com.google.android.gms.location.sample.xingangao.traffic
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:36:9-40:20
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:38:13-33
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:37:13-36
+activity#com.google.android.gms.location.sample.xingangao.plase
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:41:9-45:20
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:43:13-32
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:42:13-34
+activity#com.google.android.gms.location.sample.xingangao.view1
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:46:9-50:20
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:48:13-31
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:47:13-34
+activity#com.google.android.gms.location.sample.xingangao.view2
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:51:9-55:20
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:53:13-31
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:52:13-34
+activity#com.google.android.gms.location.sample.xingangao.view3
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:56:9-60:20
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:58:13-31
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:57:13-34
+activity#com.google.android.gms.location.sample.xingangao.view4
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:61:9-65:20
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:63:13-31
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:62:13-34
+activity#com.google.android.gms.location.sample.xingangao.view5
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:66:9-70:20
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:68:13-31
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:67:13-34
+activity#com.google.android.gms.location.sample.xingangao.view6
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:71:9-75:20
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:73:13-31
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:72:13-34
+activity#com.google.android.gms.location.sample.xingangao.view7
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:76:9-80:20
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:78:13-31
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:77:13-34
+activity#com.google.android.gms.location.sample.xingangao.view8
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:81:9-85:20
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:83:13-31
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:82:13-34
+activity#com.google.android.gms.location.sample.xingangao.view9
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:86:9-90:20
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:88:13-31
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:87:13-34
+activity#com.google.android.gms.location.sample.xingangao.view10
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:91:9-95:20
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:93:13-31
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:92:13-35
+activity#com.google.android.gms.location.sample.xingangao.view11
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:96:9-100:20
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:98:13-31
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:97:13-35
+activity#com.google.android.gms.location.sample.xingangao.view12
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:101:9-105:20
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:103:13-31
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:102:13-35
+activity#com.google.android.gms.location.sample.xingangao.view13
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:106:9-110:20
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:108:13-31
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:107:13-35
+activity#com.google.android.gms.location.sample.xingangao.view14
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:111:9-115:20
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:113:13-31
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:112:13-35
+activity#com.google.android.gms.location.sample.xingangao.view15
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:116:9-120:20
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:118:13-31
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:117:13-35
+activity#com.google.android.gms.location.sample.xingangao.view16
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:121:9-125:16
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:123:9-27
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:122:9-31
+activity#com.google.android.gms.location.sample.xingangao.diy
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:126:9-130:20
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:128:13-34
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:127:13-32
+activity#com.google.android.gms.location.sample.xingangao.view17
+ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:131:9-135:20
+	android:label
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:133:13-31
+	android:name
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:132:13-35
+uses-sdk
+INJECTED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml
+INJECTED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-8.1.0.aar\1e7e3cef0c235d272c433781ed79e4d4\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-8.1.0.aar\1e7e3cef0c235d272c433781ed79e4d4\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-cast-8.1.0.aar\7a67188e60a5ceb1932231b3f1b97d28\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-cast-8.1.0.aar\7a67188e60a5ceb1932231b3f1b97d28\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:22.2.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-22.2.0.aar\f1476ebdddca350ff5ceb28db9baba08\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:22.2.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-22.2.0.aar\f1476ebdddca350ff5ceb28db9baba08\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\56f3afe8b5ff3bc4bdc519974953ca2f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\56f3afe8b5ff3bc4bdc519974953ca2f\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.1.0.aar\0a108946d55bbba1d73750244b9dac60\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.1.0.aar\0a108946d55bbba1d73750244b9dac60\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.1.0.aar\1c929e037bc3b0c0f9717e0a764108e9\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.1.0.aar\1c929e037bc3b0c0f9717e0a764108e9\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\c37fb2fbb73737a98cb8d460b12fa9c0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\c37fb2fbb73737a98cb8d460b12fa9c0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.1.0.aar\11f38443790f09511d161f1e7e95a22e\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.1.0.aar\11f38443790f09511d161f1e7e95a22e\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-appstate-8.1.0.aar\18bd569a44ede521295fab9565ec4eab\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-appstate-8.1.0.aar\18bd569a44ede521295fab9565ec4eab\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-games-8.1.0.aar\099715b941e1db86ddeb3851b6633539\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-games-8.1.0.aar\099715b941e1db86ddeb3851b6633539\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-drive-8.1.0.aar\1614c5856da5b0bef99d767ec53ed7ef\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-drive-8.1.0.aar\1614c5856da5b0bef99d767ec53ed7ef\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-fitness-8.1.0.aar\eecd47d080778d58b21991fca9d8756d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-fitness-8.1.0.aar\eecd47d080778d58b21991fca9d8756d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-gcm-8.1.0.aar\55c08bb9d8ae974dd0b300c90ab17caf\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-gcm-8.1.0.aar\55c08bb9d8ae974dd0b300c90ab17caf\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-wallet-8.1.0.aar\40e8da8e6029574dd162f3662d868575\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-wallet-8.1.0.aar\40e8da8e6029574dd162f3662d868575\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-identity-8.1.0.aar\c05ae1b40d6e7e99f06b7c989898ddc3\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-identity-8.1.0.aar\c05ae1b40d6e7e99f06b7c989898ddc3\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-location-8.1.0.aar\326ad97fbe300ec96d9c484efea0594d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-location-8.1.0.aar\326ad97fbe300ec96d9c484efea0594d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.1.0.aar\f39eafbd9046531c946bb4103214397c\AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.1.0.aar\f39eafbd9046531c946bb4103214397c\AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-nearby-8.1.0.aar\6ae90b74798899eb3436583538f7d6cd\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-nearby-8.1.0.aar\6ae90b74798899eb3436583538f7d6cd\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-panorama-8.1.0.aar\1fa35c7fb06d0aad5231e4a59f6e61f5\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-panorama-8.1.0.aar\1fa35c7fb06d0aad5231e4a59f6e61f5\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-plus-8.1.0.aar\01461ff9c8b1640272f711231d4eebde\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-plus-8.1.0.aar\01461ff9c8b1640272f711231d4eebde\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-8.1.0.aar\679f9e945a3fb2ebc9c419976215bc02\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-8.1.0.aar\679f9e945a3fb2ebc9c419976215bc02\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-vision-8.1.0.aar\6208c36e06ceda6d8295d1afb22ab60f\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-vision-8.1.0.aar\6208c36e06ceda6d8295d1afb22ab60f\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-wearable-8.1.0.aar\98a83956dc48051f2b43f190a017d079\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-wearable-8.1.0.aar\98a83956dc48051f2b43f190a017d079\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-base-8.1.0.aar\3bc4cfbbacbe530a2742c289f8a22839\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-base-8.1.0.aar\3bc4cfbbacbe530a2742c289f8a22839\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\70670c1eb7cd1afe004122e1fdfc10fb\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\70670c1eb7cd1afe004122e1fdfc10fb\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\ca4bbb782e450381d20e018f8e185710\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\ca4bbb782e450381d20e018f8e185710\AndroidManifest.xml:20:5-43
+INJECTED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml
+INJECTED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml
+		INJECTED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml
+		ADDED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml
+		INJECTED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.1.0.aar\0a108946d55bbba1d73750244b9dac60\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.1.0.aar\0a108946d55bbba1d73750244b9dac60\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.1.0.aar\1c929e037bc3b0c0f9717e0a764108e9\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.1.0.aar\1c929e037bc3b0c0f9717e0a764108e9\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.1.0.aar\f39eafbd9046531c946bb4103214397c\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.1.0.aar\f39eafbd9046531c946bb4103214397c\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-nearby:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-nearby-8.1.0.aar\6ae90b74798899eb3436583538f7d6cd\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-nearby:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-nearby-8.1.0.aar\6ae90b74798899eb3436583538f7d6cd\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:24:22-65
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:34:11-83
+intent-filter#action:name:com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.1.0.aar\c5ea97db565af119c26beeb16a8317d0\AndroidManifest.xml:42:11-82
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.1.0.aar\1c929e037bc3b0c0f9717e0a764108e9\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.1.0.aar\1c929e037bc3b0c0f9717e0a764108e9\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.1.0.aar\1c929e037bc3b0c0f9717e0a764108e9\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.1.0.aar\1c929e037bc3b0c0f9717e0a764108e9\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.1.0.aar\1c929e037bc3b0c0f9717e0a764108e9\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.1.0.aar\1c929e037bc3b0c0f9717e0a764108e9\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.1.0.aar\1c929e037bc3b0c0f9717e0a764108e9\AndroidManifest.xml:30:19-91
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-gcm-8.1.0.aar\55c08bb9d8ae974dd0b300c90ab17caf\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-gcm-8.1.0.aar\55c08bb9d8ae974dd0b300c90ab17caf\AndroidManifest.xml:21:22-79
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from [com.google.android.gms:play-services-wallet:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-wallet-8.1.0.aar\40e8da8e6029574dd162f3662d868575\AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-wallet-8.1.0.aar\40e8da8e6029574dd162f3662d868575\AndroidManifest.xml:21:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from [com.google.android.gms:play-services-wallet:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-wallet-8.1.0.aar\40e8da8e6029574dd162f3662d868575\AndroidManifest.xml:22:5-73
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-wallet-8.1.0.aar\40e8da8e6029574dd162f3662d868575\AndroidManifest.xml:22:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.1.0.aar\f39eafbd9046531c946bb4103214397c\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.1.0.aar\f39eafbd9046531c946bb4103214397c\AndroidManifest.xml:22:22-78
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.1.0.aar\f39eafbd9046531c946bb4103214397c\AndroidManifest.xml:23:5-25:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.1.0.aar\f39eafbd9046531c946bb4103214397c\AndroidManifest.xml:24:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.1.0.aar\f39eafbd9046531c946bb4103214397c\AndroidManifest.xml:25:8-31
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\app\Toucheng\LocationUpdates\app\src\main\AndroidManifest.xml:5:1-137:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE

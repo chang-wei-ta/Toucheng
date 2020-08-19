@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.google.android.gms.location.sample.xingangao">
+
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <!-- Permission: Allow Connect to Internet -->
+    <uses-permission android:name="android.permission.INTERNET"
+        tools:ignore="ManifestOrder,WrongManifestParent" />
+
+    <application
+        android:icon="@drawable/logo"
+        android:allowBackup="true"
+        android:label="Location Update"
+        android:theme="@style/Theme.Base" >
+
+        <meta-data android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <activity
+            android:name=".MainActivity"
+            android:label="導覽模式" >
+
+        </activity>
+        <activity
+            android:name=".choice"
+            android:label="新港澳" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".traffic"
+            android:label="關於我們" >
+
+        </activity>
+        <activity
+            android:name=".plase"
+            android:label="新港澳" >
+
+        </activity>
+        <activity
+            android:name=".view1"
+            android:label="景點" >
+
+        </activity>
+        <activity
+            android:name=".view2"
+            android:label="景點" >
+
+        </activity>
+        <activity
+            android:name=".view3"
+            android:label="景點" >
+
+        </activity>
+        <activity
+            android:name=".view4"
+            android:label="景點" >
+
+        </activity>
+        <activity
+            android:name=".view5"
+            android:label="景點" >
+
+        </activity>
+        <activity
+            android:name=".view6"
+            android:label="景點" >
+
+        </activity>
+        <activity
+            android:name=".view7"
+            android:label="景點" >
+
+        </activity>
+        <activity
+            android:name=".view8"
+            android:label="景點" >
+
+        </activity>
+        <activity
+            android:name=".view9"
+            android:label="景點" >
+
+        </activity>
+        <activity
+            android:name=".view10"
+            android:label="景點" >
+
+        </activity>
+        <activity
+            android:name=".view11"
+            android:label="景點" >
+
+        </activity>
+        <activity
+            android:name=".view12"
+            android:label="景點" >
+
+        </activity>
+        <activity
+            android:name=".view13"
+            android:label="景點" >
+
+        </activity>
+        <activity
+            android:name=".view14"
+            android:label="景點" >
+
+        </activity>
+        <activity
+            android:name=".view15"
+            android:label="景點" >
+
+        </activity>
+        <activity
+        android:name=".view16"
+        android:label="景點" >
+
+    </activity>
+        <activity
+            android:name=".diy"
+            android:label="手動DIY" >
+
+        </activity>
+        <activity
+            android:name=".view17"
+            android:label="景點" >
+
+        </activity>
+    </application>
+</manifest>

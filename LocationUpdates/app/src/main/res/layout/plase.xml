@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_light"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/view16"
+        android:layout_width="192dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/view13"
+        android:background="@drawable/anchor2"
+        android:gravity="bottom|right"
+        android:text="梗枋漁獲"
+        android:textColor="@android:color/background_light"
+        android:textSize="25sp"
+        android:textStyle="normal|bold" />
+
+    <Button
+        android:id="@+id/view17"
+        android:layout_width="192dp"
+        android:layout_height="60dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/view16"
+        android:background="@drawable/anchor2"
+        android:gravity="bottom|right"
+        android:text="北關海鮮城"
+        android:textColor="@android:color/background_light"
+        android:textSize="25sp"
+        android:textStyle="normal|bold" />
+
+    <Button
+        android:id="@+id/view13"
+        android:layout_width="125dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/view11"
+        android:background="@drawable/anchor2"
+        android:gravity="bottom|right"
+        android:text="海灘風情民宿"
+        android:textColor="@android:color/background_light"
+        android:textSize="17sp"
+        android:textStyle="normal|bold" />
+
+    <Button
+        android:id="@+id/view15"
+        android:layout_width="125dp"
+        android:layout_height="60dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/view13"
+        android:background="@drawable/anchor2"
+        android:gravity="bottom|right"
+        android:text="外澳沙灘"
+        android:textColor="@android:color/background_light"
+        android:textSize="23sp"
+        android:textStyle="normal|bold" />
+
+    <Button
+        android:id="@+id/view14"
+        android:layout_width="125dp"
+        android:layout_height="60dp"
+        android:layout_alignTop="@+id/view13"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/anchor2"
+        android:gravity="bottom|right"
+        android:text="一支釣"
+        android:textColor="@android:color/background_light"
+        android:textSize="25sp"
+        android:textStyle="normal|bold" />
+
+    <Button
+        android:id="@+id/view4"
+        android:layout_width="125dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/view1"
+        android:background="@drawable/anchor2"
+        android:gravity="bottom|right"
+        android:text="九號咖啡館"
+        android:textColor="@android:color/background_light"
+        android:textSize="19sp"
+        android:textStyle="normal|bold" />
+
+    <Button
+        android:id="@+id/view6"
+        android:layout_width="125dp"
+        android:layout_height="60dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/view4"
+        android:background="@drawable/anchor2"
+        android:gravity="bottom|right"
+        android:text="溪和食品"
+        android:textColor="@android:color/background_light"
+        android:textSize="22sp"
+        android:textStyle="normal|bold" />
+
+    <Button
+        android:id="@+id/view11"
+        android:layout_width="125dp"
+        android:layout_height="60dp"
+        android:layout_alignTop="@+id/view10"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/anchor2"
+        android:gravity="bottom|right"
+        android:text="遊客中心"
+        android:textColor="@android:color/background_light"
+        android:textSize="22sp"
+        android:textStyle="normal|bold" />
+
+    <Button
+        android:id="@+id/view10"
+        android:layout_width="125dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/view7"
+        android:background="@drawable/anchor2"
+        android:gravity="bottom|right"
+        android:text="真情非凡行館"
+        android:textColor="@android:color/background_light"
+        android:textSize="17sp"
+        android:textStyle="normal|bold" />
+
+    <Button
+        android:id="@+id/view12"
+        android:layout_width="125dp"
+        android:layout_height="60dp"
+        android:layout_alignTop="@+id/view11"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/anchor2"
+        android:gravity="bottom|right"
+        android:text="飛行傘基地"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp"
+        android:textStyle="normal|bold" />
+
+    <Button
+        android:id="@+id/view5"
+        android:layout_width="125dp"
+        android:layout_height="60dp"
+        android:layout_alignTop="@+id/view4"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/anchor2"
+        android:gravity="bottom|right"
+        android:text="第一海景民宿"
+        android:textColor="@android:color/background_light"
+        android:textSize="17sp"
+        android:textStyle="normal|bold" />
+
+    <Button
+        android:id="@+id/view1"
+        android:layout_width="125dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/view2"
+        android:background="@drawable/anchor2"
+        android:gravity="bottom|right"
+        android:text="石花菜"
+        android:textColor="@android:color/background_light"
+        android:textSize="25sp"
+        android:textStyle="normal|bold" />
+
+    <Button
+        android:id="@+id/view7"
+        android:layout_width="125dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/view4"
+        android:background="@drawable/anchor2"
+        android:gravity="bottom|right"
+        android:text="牽罟"
+        android:textColor="@android:color/background_light"
+        android:textSize="25sp"
+        android:textStyle="normal|bold" />
+
+    <Button
+        android:id="@+id/view9"
+        android:layout_width="125dp"
+        android:layout_height="60dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/view7"
+        android:background="@drawable/anchor2"
+        android:gravity="bottom|right"
+        android:text="龜山島"
+        android:textColor="@android:color/background_light"
+        android:textSize="25sp"
+        android:textStyle="normal|bold" />
+
+    <Button
+        android:id="@+id/view8"
+        android:layout_width="125dp"
+        android:layout_height="60dp"
+        android:layout_alignTop="@+id/view7"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/anchor2"
+        android:gravity="bottom|right"
+        android:text="張漢川果園"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp"
+        android:textStyle="normal|bold" />
+
+    <Button
+        android:id="@+id/view2"
+        android:layout_width="125dp"
+        android:layout_height="60dp"
+        android:layout_alignTop="@+id/view3"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/anchor2"
+        android:gravity="bottom|right"
+        android:text="蘭陽博物館"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp"
+        android:textStyle="normal|bold" />
+
+    <Button
+        android:id="@+id/view3"
+        android:layout_width="125dp"
+        android:layout_height="60dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="70dp"
+        android:background="@drawable/anchor2"
+        android:gravity="bottom|right"
+        android:text="伯朗咖啡城堡"
+        android:textColor="@android:color/background_light"
+        android:textSize="17sp"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="#6654f4e5"
+        android:gravity="center"
+        android:text="景點介紹"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/view16"
+        android:layout_toEndOf="@+id/view16"
+        android:src="@drawable/logo" />
+
+</RelativeLayout>
